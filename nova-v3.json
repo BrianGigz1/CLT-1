@@ -1,10 +1,17 @@
 {
   "name": "Nova Token",
-  "symbol": "CLT-2",
-  "description": "Nova Token (formerly Citus Logistics Token CLT-2). Utility demo token on Solana Devnet.",
+  "symbol": "CLT",
+  "description": "Nova Token - Logistics utility token",
   "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova.jpg",
-  "attributes": [
-    { "trait_type": "Project", "value": "Nova / Citus Logistics" },
-    { "trait_type": "Network", "value": "Devnet" }
-  ]
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
 }

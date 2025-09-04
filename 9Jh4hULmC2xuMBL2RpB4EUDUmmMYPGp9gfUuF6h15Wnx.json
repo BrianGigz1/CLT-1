@@ -1,7 +1,7 @@
 {
   "name": "Nova Token",
   "symbol": "CLT-2",
-  "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-v2.json",
+  "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-v6.json",
   "seller_fee_basis_points": 0,
   "creators": null
 }

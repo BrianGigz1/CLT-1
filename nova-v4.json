@@ -1,0 +1,13 @@
+{
+  "name": "Nova Token",
+  "symbol": "CLT",
+  "description": "Nova Token - Logistics utility token (Devnet).",
+  "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova512.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova512.png", "type": "image/png" }
+      ]
+  }
+}

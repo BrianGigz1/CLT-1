@@ -1,0 +1,13 @@
+{
+  "name": "Nova Token",
+  "symbol": "NVC",
+  "description": "Nova Token (NVC) on Solana Devnet for utility, experiments, and micro-lending.",
+  "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-chosen.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [{ "trait_type": "Ticker", "value": "NVC" }],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-chosen.png", "type": "image/png" }
+    ]
+  }
+}

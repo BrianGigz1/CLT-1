@@ -1,0 +1,15 @@
+{
+  "name": "Nova Coin",
+  "symbol": "NVC",
+  "description": "Nova Coin (NVC) is the micro-lending and finance token of the Citus Logistics platform.",
+  "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-coin-v2.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Ticker", "value": "NVC" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-coin-v2.png", "type": "image/png" }
+    ]
+  }
+}

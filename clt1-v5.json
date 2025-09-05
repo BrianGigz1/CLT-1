@@ -1,0 +1,13 @@
+{
+  "name": "Citus Logistics Token",
+  "symbol": "CLT",
+  "description": "Utility token for logistics and tracking on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/clt1.jpg",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/clt1.jpg", "type": "image/jpg" }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Nova Coin",
+  "symbol": "NVC",
+  "description": "Nova Coin (NVC) is a next-generation digital currency designed to power community-driven economies. Built on Solana, NVC focuses on speed, scalability, and real-world adoption. It fuels decentralized payments, powers incentive systems, and supports innovative financial applications. Nova Coin is not just a token — it’s a bridge between digital innovation and everyday utility, enabling frictionless transactions for individuals, startups, and global enterprises.",
+  "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-coin-1757059.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Utility", "value": "Digital Payments" },
+    { "trait_type": "Ecosystem", "value": "Global Adoption" },
+    { "trait_type": "Ticker", "value": "NVC" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova-coin-1757059.png", "type": "image/png" }
+    ]
+  }
+}

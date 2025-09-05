@@ -1,13 +1,17 @@
 {
   "name": "Nova Token",
-  "symbol": "CLT",
-  "description": "Nova Token - Logistics utility token (Devnet).",
+  "symbol": "NVC",
+  "description": "Nova Token (NVC) is a utility token built on Solana Devnet. It is designed for experimental finance, logistics micro-lending, and app ecosystem usage.",
   "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova512.png",
   "seller_fee_basis_points": 0,
-  "attributes": [],
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" },
+    { "trait_type": "Ticker", "value": "NVC" }
+  ],
   "properties": {
     "files": [
       { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/nova512.png", "type": "image/png" }
-    ]
+    ],
+    "category": "image"
   }
 }

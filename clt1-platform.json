@@ -1,0 +1,19 @@
+{
+  "name": "Citus Logistics Token",
+  "symbol": "CLT",
+  "description": "Citus is a comprehensive, AI-enhanced logistics management platform.\n\nCore Features:\n- Dashboard with real-time shipment tracking and metrics\n- AR Warehouse Visualizer for 3D logistics optimization\n- Image Recognition for automated package/inventory processing\n- Multi-tenant architecture supporting different organizations\n- Integration hub for ERP, CRM, and API management systems\n\nAdvanced Capabilities:\n- Mobile-first design with offline data sync\n- Real-time tracking of vehicles, shipments, and employees\n- Route optimization and location management\n- Billing/subscription system with token-based usage\n- Secure authentication with profile management\n- Cross-platform support (web, iOS, Android via Capacitor)\n\nTech Stack: React + TypeScript, Supabase backend, AR/3D visualization, AI image processing, and comprehensive mobile capabilities.\n\nCLT powers subscriptions, usage metering, rewards, and ecosystem access on Solana (Devnet).",
+  "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/clt1.jpg",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Category", "value": "Logistics Platform" },
+    { "trait_type": "Capabilities", "value": "AR, AI, Real-time, Mobile" },
+    { "trait_type": "Billing", "value": "Token-based subscription" },
+    { "trait_type": "Tech Stack", "value": "React, TS, Supabase, Capacitor, AI" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/clt1.jpg", "type": "image/jpg" }
+    ],
+    "category": "image"
+  }
+}

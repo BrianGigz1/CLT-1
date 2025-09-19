@@ -1,0 +1,15 @@
+path/to/leaked_key.json
+# never commit secrets
+*.key
+*.pem
+*.p12
+*.der
+*.jks
+*keystore*
+*wallet*
+*keypair*.json
+id.json
+*.secret
+*.enc
+.env
+.env.*

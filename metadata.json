@@ -3,9 +3,12 @@
   "symbol": "CLT",
   "description": "The official Devnet test token for CLT.",
   "image": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/1758273661042.jpg",
-  "extensions": {
-    "website": "https://citus.dev",
-    "twitter": "https://twitter.com/yourhandle"
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/BrianGigz1/CLT-1/main/1758273661042.jpg", "type": "image/jpeg" }
+    ],
+    "category": "image"
   },
+  "extensions": { "website": "https://citus.dev" },
   "tags": ["devnet", "logistics", "test"]
 }
